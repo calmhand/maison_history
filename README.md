@@ -7,6 +7,8 @@ I used and linked multiple components and styles everything from the ground up a
 The simplicity of the site is due to my desire to match the style of Maison Margiela's look. This site will moreso focus
 on the different technologies and techniques I learned from the course.
 
+The glowing numbers are buttons that will display their meaning and be accompanied by a photo. All photos were retrieved from Google Images.
+
 ## Project setup
 
 ``` shell
