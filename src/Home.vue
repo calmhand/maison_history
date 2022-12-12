@@ -7,6 +7,7 @@
             <BrandGrid />
             <NavBar />
         </div>
+        <a href="https://github.com/calmhand/maison_history#readme" target="_blank">readme</a>
     </div>
 </template>
 

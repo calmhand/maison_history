@@ -8,12 +8,11 @@
         </div>
         <div class="modal-body">
           <h3>Site created by Johnny Goulbourne for NMIX 4050 Final Project</h3>
-          <small>This site uses Vue CLI and Bootstrap 5.</small>
-          <small>This site is a small introduction to the world famous fashion house Maison Margiela.</small>
-          <small><a>source code</a></small>
-          <!-- TODO: LINK TO GITHUB -->
-          <h4>Images retrieved from Google Images</h4>
+          <small>This site uses Vue CLI and Bootstrap 5.</small><br>
+          <small>This site is a small introduction to the world famous fashion house Maison Margiela.</small><br>
+          <small><a href="https://github.com/calmhand/maison_history" target="_blank">source code</a></small><br>
           <h4 style="text-decoration: underline;">Sources</h4>
+          <small>Images retrieved from Google Image</small><br>
           <a href="https://www.aphrodite1994.com/blog/index.php/maison-margiela-brand-guide">aphrodite1994</a><br>
           <a href="https://www.coggles.com/life/fashion/maison-margiela-fashion-history/">coggles</a>
         </div>
