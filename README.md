@@ -1,6 +1,6 @@
 # Maison Margiela's History
 
-This project was done to showcase topics I learning NMIX 4050. After taking the class, I have a better understanding
+This project was done to showcase topics I learning NMIX 4020. After taking the class, I have a better understanding
 of HTML, CSS, and VueJS/Javascript. For this, I wanted to delve further into Vue so I used Vue CLI to create this project.
 I used and linked multiple components and styles everything from the ground up along some styles from Bootstrap 5.
 
